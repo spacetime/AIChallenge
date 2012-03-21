@@ -1,0 +1,161 @@
+TAI Challenge
+v7
+r0
+t325200750.936946
+cCheck dependencies
+cCompileC "build/AI Challenge.build/Debug/AI Challenge.build/Objects-normal/x86_64/main.o" "/Users/rishab/Development/AI Challenge/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/time.h
+c000000004BBD2CE9000000000000178E
+t1270689001
+s6030
+
+N/Users/rishab/Development/AI Challenge/build/AI Challenge.build/Debug/AI Challenge.build/Objects-normal/x86_64/AI Challenge.LinkFileList
+c000000004DB1F3EE0000000000000076
+t1303507950
+s118
+
+N/Users/rishab/Development/AI Challenge/build/AI Challenge.build/Debug/AI Challenge.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/rishab/Development/AI Challenge/build/AI Challenge.build/Debug/AI Challenge.build/Objects-normal/x86_64/player59.o
+t1303490731
+s66284
+
+N/Users/rishab/Development/AI Challenge/build/AI Challenge.build/Debug/AI Challenge.build/Objects-normal/x86_64/playerXX.o
+t1303482602
+s50976
+
+N/Users/rishab/Development/AI Challenge/build/AI Challenge.build/Debug/AI Challenge.build/Objects-normal/x86_64/sampleplayer.o
+t1303490667
+s46268
+
+N/Users/rishab/Development/AI Challenge/build/Debug/AI Challenge
+t2
+s0
+
+N/Users/rishab/Development/AI Challenge/main.cpp
+c000000004DB1EBD30000000000001AFA
+t1303505875
+s6906
+i<stdio.h>
+i<time.h>
+i<iostream>
+i"parameter.h"
+i"sampleplayer.cpp"
+i"player59.cpp"
+
+N/Users/rishab/Development/AI Challenge/parameter.h
+c000000004DA6D24000000000000000FC
+t1302778432
+s252
+
+N/Users/rishab/Development/AI Challenge/player59.cpp
+c000000004DB1F3E30000000000001F81
+t1303507939
+s8065
+i<stdio.h>
+i<iostream>
+i"parameter.h"
+
+N/Users/rishab/Development/AI Challenge/playerXX.cpp
+c000000004DB190E10000000000001663
+t1303482593
+s5731
+i<stdio.h>
+i<iostream>
+i"parameter.h"
+
+N/Users/rishab/Development/AI Challenge/sampleplayer.cpp
+c000000004DB1F3DE0000000000000369
+t1303507934
+s873
+i<stdio.h>
+i<iostream>
+i"parameter.h"
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies325200750#325200750#0(0"0(0#1#0"8615090496#0"0#
+
+CCompileC "build/AI Challenge.build/Debug/AI Challenge.build/Objects-normal/x86_64/main.o" "/Users/rishab/Development/AI Challenge/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s325200750.514327
+e325200750.936620
+r0
+xCompileC
+xbuild/AI Challenge.build/Debug/AI Challenge.build/Objects-normal/x86_64/main.o
+x/Users/rishab/Development/AI Challenge/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/rishab/Development/AI Challenge/main.cpp:13:
+o/Users/rishab/Development/AI Challenge/player59.cpp:232: error: expected unqualified-id before 'if'
+o/Users/rishab/Development/AI Challenge/main.cpp:247: error: expected `}' at end of input
+o/Users/rishab/Development/AI Challenge/player59.cpp:230: error: expected unqualified-id at end of input
+lSLF07#2@55"Compile /Users/rishab/Development/AI Challenge/main.cpp325200750#325200750#0(367"In file included from /Users/rishab/Development/AI Challenge/main.cpp:13:/Users/rishab/Development/AI Challenge/player59.cpp:232: error: expected unqualified-id before 'if'/Users/rishab/Development/AI Challenge/main.cpp:247: error: expected `}' at end of input/Users/rishab/Development/AI Challenge/player59.cpp:230: error: expected unqualified-id at end of input3(4@35"Expected unqualified-id before 'if'325200750#74#100#2(7@69"In file included from /Users/rishab/Development/AI Challenge/main.cpp325200750#18446744073709551615#0#0(6@47"/Users/rishab/Development/AI Challenge/main.cpp325198675#13#0#13#0#0"0(13@90"Expected unqualified-id before 'if' in /Users/rishab/Development/AI Challenge/player59.cpp325200750#18446744073709551615#0#0(6@51"/Users/rishab/Development/AI Challenge/player59.cpp325200739#232#0#232#0#0"0(6@51"/Users/rishab/Development/AI Challenge/player59.cpp325200739#232#0#232#0#19"expected * before *0(4@28"Expected `}' at end of input325200750#174#89#0(6@47"/Users/rishab/Development/AI Challenge/main.cpp325198675#247#0#247#0#0"0(4@39"Expected unqualified-id at end of input325200750#263#104#0(6@51"/Users/rishab/Development/AI Challenge/player59.cpp325200739#230#0#230#0#0"0(0#0#47"/Users/rishab/Development/AI Challenge/main.cpp8614244288#1403"    cd "/Users/rishab/Development/AI Challenge"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/rishab/Development/AI Challenge/build/AI Challenge.build/Debug/AI Challenge.build/AI Challenge-generated-files.hmap" "-I/Users/rishab/Development/AI Challenge/build/AI Challenge.build/Debug/AI Challenge.build/AI Challenge-own-target-headers.hmap" "-I/Users/rishab/Development/AI Challenge/build/AI Challenge.build/Debug/AI Challenge.build/AI Challenge-all-target-headers.hmap" -iquote "/Users/rishab/Development/AI Challenge/build/AI Challenge.build/Debug/AI Challenge.build/AI Challenge-project-headers.hmap" "-F/Users/rishab/Development/AI Challenge/build/Debug" "-I/Users/rishab/Development/AI Challenge/build/Debug/include" "-I/Users/rishab/Development/AI Challenge/build/AI Challenge.build/Debug/AI Challenge.build/DerivedSources/x86_64" "-I/Users/rishab/Development/AI Challenge/build/AI Challenge.build/Debug/AI Challenge.build/DerivedSources" -c "/Users/rishab/Development/AI Challenge/main.cpp" -o "/Users/rishab/Development/AI Challenge/build/AI Challenge.build/Debug/AI Challenge.build/Objects-normal/x86_64/main.o"1#
+
+CCompileC "build/AI Challenge.build/Debug/AI Challenge.build/Objects-normal/x86_64/player59.o" "/Users/rishab/Development/AI Challenge/player59.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s325183532.650555
+e325183532.651591
+r1
+xCompileC
+xbuild/AI Challenge.build/Debug/AI Challenge.build/Objects-normal/x86_64/player59.o
+x/Users/rishab/Development/AI Challenge/player59.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/rishab/Development/AI Challenge/player59.cpp325183532#325183532#0(0"0(0#0#51"/Users/rishab/Development/AI Challenge/player59.cpp8605302688#1411"    cd "/Users/rishab/Development/AI Challenge"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/rishab/Development/AI Challenge/build/AI Challenge.build/Debug/AI Challenge.build/AI Challenge-generated-files.hmap" "-I/Users/rishab/Development/AI Challenge/build/AI Challenge.build/Debug/AI Challenge.build/AI Challenge-own-target-headers.hmap" "-I/Users/rishab/Development/AI Challenge/build/AI Challenge.build/Debug/AI Challenge.build/AI Challenge-all-target-headers.hmap" -iquote "/Users/rishab/Development/AI Challenge/build/AI Challenge.build/Debug/AI Challenge.build/AI Challenge-project-headers.hmap" "-F/Users/rishab/Development/AI Challenge/build/Debug" "-I/Users/rishab/Development/AI Challenge/build/Debug/include" "-I/Users/rishab/Development/AI Challenge/build/AI Challenge.build/Debug/AI Challenge.build/DerivedSources/x86_64" "-I/Users/rishab/Development/AI Challenge/build/AI Challenge.build/Debug/AI Challenge.build/DerivedSources" -c "/Users/rishab/Development/AI Challenge/player59.cpp" -o "/Users/rishab/Development/AI Challenge/build/AI Challenge.build/Debug/AI Challenge.build/Objects-normal/x86_64/player59.o"0#
+
+CCompileC "build/AI Challenge.build/Debug/AI Challenge.build/Objects-normal/x86_64/playerXX.o" "/Users/rishab/Development/AI Challenge/playerXX.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s325175401.956758
+e325175402.384783
+r1
+xCompileC
+xbuild/AI Challenge.build/Debug/AI Challenge.build/Objects-normal/x86_64/playerXX.o
+x/Users/rishab/Development/AI Challenge/playerXX.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/rishab/Development/AI Challenge/playerXX.cpp: In member function 'int playerXX::SNM(char (*)[20], int, int, int, int)':
+o/Users/rishab/Development/AI Challenge/playerXX.cpp:222: warning: control reaches end of non-void function
+o/Users/rishab/Development/AI Challenge/playerXX.cpp: In member function 'int playerXX::spiral_wont_work()':
+o/Users/rishab/Development/AI Challenge/playerXX.cpp:123: warning: control reaches end of non-void function
+lSLF07#2@59"Compile /Users/rishab/Development/AI Challenge/playerXX.cpp325175401#325175402#0(449"/Users/rishab/Development/AI Challenge/playerXX.cpp: In member function 'int playerXX::SNM(char (*)[20], int, int, int, int)':/Users/rishab/Development/AI Challenge/playerXX.cpp:222: warning: control reaches end of non-void function/Users/rishab/Development/AI Challenge/playerXX.cpp: In member function 'int playerXX::spiral_wont_work()':/Users/rishab/Development/AI Challenge/playerXX.cpp:123: warning: control reaches end of non-void function2(22@40"Control reaches end of non-void function325175402#127#107#0(6@51"/Users/rishab/Development/AI Challenge/playerXX.cpp325175393#222#0#222#0#40"control reaches end of non-void function0(22@40"Control reaches end of non-void function325175402#342#107#0(6@51"/Users/rishab/Development/AI Challenge/playerXX.cpp325175393#123#0#123#0#40"control reaches end of non-void function0(0#0#51"/Users/rishab/Development/AI Challenge/playerXX.cpp8611773696#1411"    cd "/Users/rishab/Development/AI Challenge"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/rishab/Development/AI Challenge/build/AI Challenge.build/Debug/AI Challenge.build/AI Challenge-generated-files.hmap" "-I/Users/rishab/Development/AI Challenge/build/AI Challenge.build/Debug/AI Challenge.build/AI Challenge-own-target-headers.hmap" "-I/Users/rishab/Development/AI Challenge/build/AI Challenge.build/Debug/AI Challenge.build/AI Challenge-all-target-headers.hmap" -iquote "/Users/rishab/Development/AI Challenge/build/AI Challenge.build/Debug/AI Challenge.build/AI Challenge-project-headers.hmap" "-F/Users/rishab/Development/AI Challenge/build/Debug" "-I/Users/rishab/Development/AI Challenge/build/Debug/include" "-I/Users/rishab/Development/AI Challenge/build/AI Challenge.build/Debug/AI Challenge.build/DerivedSources/x86_64" "-I/Users/rishab/Development/AI Challenge/build/AI Challenge.build/Debug/AI Challenge.build/DerivedSources" -c "/Users/rishab/Development/AI Challenge/playerXX.cpp" -o "/Users/rishab/Development/AI Challenge/build/AI Challenge.build/Debug/AI Challenge.build/Objects-normal/x86_64/playerXX.o"0#
+
+CCompileC "build/AI Challenge.build/Debug/AI Challenge.build/Objects-normal/x86_64/sampleplayer.o" "/Users/rishab/Development/AI Challenge/sampleplayer.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s325183466.593099
+e325183467.018463
+r1
+xCompileC
+xbuild/AI Challenge.build/Debug/AI Challenge.build/Objects-normal/x86_64/sampleplayer.o
+x/Users/rishab/Development/AI Challenge/sampleplayer.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/rishab/Development/AI Challenge/sampleplayer.cpp325183466#325183467#0(0"0(0#0#55"/Users/rishab/Development/AI Challenge/sampleplayer.cpp8619829696#1419"    cd "/Users/rishab/Development/AI Challenge"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/rishab/Development/AI Challenge/build/AI Challenge.build/Debug/AI Challenge.build/AI Challenge-generated-files.hmap" "-I/Users/rishab/Development/AI Challenge/build/AI Challenge.build/Debug/AI Challenge.build/AI Challenge-own-target-headers.hmap" "-I/Users/rishab/Development/AI Challenge/build/AI Challenge.build/Debug/AI Challenge.build/AI Challenge-all-target-headers.hmap" -iquote "/Users/rishab/Development/AI Challenge/build/AI Challenge.build/Debug/AI Challenge.build/AI Challenge-project-headers.hmap" "-F/Users/rishab/Development/AI Challenge/build/Debug" "-I/Users/rishab/Development/AI Challenge/build/Debug/include" "-I/Users/rishab/Development/AI Challenge/build/AI Challenge.build/Debug/AI Challenge.build/DerivedSources/x86_64" "-I/Users/rishab/Development/AI Challenge/build/AI Challenge.build/Debug/AI Challenge.build/DerivedSources" -c "/Users/rishab/Development/AI Challenge/sampleplayer.cpp" -o "/Users/rishab/Development/AI Challenge/build/AI Challenge.build/Debug/AI Challenge.build/Objects-normal/x86_64/sampleplayer.o"0#
+
+CLd "/Users/rishab/Development/AI Challenge/build/Debug/AI Challenge" normal x86_64
+s325198687.046793
+e325198687.168899
+r1
+xLd
+x/Users/rishab/Development/AI Challenge/build/Debug/AI Challenge
+xnormal
+xx86_64
+lSLF07#2@68"Link /Users/rishab/Development/AI Challenge/build/Debug/AI Challenge325198687#325198687#0(0"0(0#0#0"8613183808#528"    cd "/Users/rishab/Development/AI Challenge"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/rishab/Development/AI Challenge/build/Debug" "-F/Users/rishab/Development/AI Challenge/build/Debug" -filelist "/Users/rishab/Development/AI Challenge/build/AI Challenge.build/Debug/AI Challenge.build/Objects-normal/x86_64/AI Challenge.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/rishab/Development/AI Challenge/build/Debug/AI Challenge"0#
+

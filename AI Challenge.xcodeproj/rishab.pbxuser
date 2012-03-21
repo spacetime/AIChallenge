@@ -1,0 +1,404 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = D9EC70AE135F376800EE1B3F /* AI Challenge */;
+		activeTarget = 8DD76F620486A84900D96B5E /* AI Challenge */;
+		addToTargets = (
+			8DD76F620486A84900D96B5E /* AI Challenge */,
+		);
+		breakpoints = (
+			D9FF34F4136221DE00DEF2B3 /* player59.cpp:1 */,
+		);
+		codeSenseManager = D9EC70B8135F376D00EE1B3F /* Code sense */;
+		executables = (
+			D9EC70AE135F376800EE1B3F /* AI Challenge */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					829,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 325240939;
+			PBXWorkspaceStateSaveDate = 325240939;
+		};
+		perUserProjectItems = {
+			D90C017A13600EF1003C5F5C /* PBXTextBookmark */ = D90C017A13600EF1003C5F5C /* PBXTextBookmark */;
+			D9B86F001361C63D00102E04 /* PBXTextBookmark */ = D9B86F001361C63D00102E04 /* PBXTextBookmark */;
+			D9B86F451361C99B00102E04 /* PBXTextBookmark */ = D9B86F451361C99B00102E04 /* PBXTextBookmark */;
+			D9EC70C8135F61B200EE1B3F /* PBXTextBookmark */ = D9EC70C8135F61B200EE1B3F /* PBXTextBookmark */;
+			D9FF350A13622B2C00DEF2B3 /* PBXTextBookmark */ = D9FF350A13622B2C00DEF2B3 /* PBXTextBookmark */;
+			D9FF36BF13624DB900DEF2B3 /* PBXTextBookmark */ = D9FF36BF13624DB900DEF2B3 /* PBXTextBookmark */;
+			D9FF36FA1362A95A00DEF2B3 /* PBXTextBookmark */ = D9FF36FA1362A95A00DEF2B3 /* PBXTextBookmark */;
+			D9FF37131362B0A600DEF2B3 /* PBXTextBookmark */ = D9FF37131362B0A600DEF2B3 /* PBXTextBookmark */;
+			D9FF37591363BAA500DEF2B3 /* PBXTextBookmark */ = D9FF37591363BAA500DEF2B3 /* PBXTextBookmark */;
+			D9FF375A1363BAA500DEF2B3 /* PBXTextBookmark */ = D9FF375A1363BAA500DEF2B3 /* PBXTextBookmark */;
+			D9FF376F1363BBDB00DEF2B3 /* PBXTextBookmark */ = D9FF376F1363BBDB00DEF2B3 /* PBXTextBookmark */;
+			D9FF37791363BC4900DEF2B3 /* PBXTextBookmark */ = D9FF37791363BC4900DEF2B3 /* PBXTextBookmark */;
+			D9FF378D1363C3A900DEF2B3 /* PBXTextBookmark */ = D9FF378D1363C3A900DEF2B3 /* PBXTextBookmark */;
+			D9FF37C91363C50800DEF2B3 /* PBXTextBookmark */ = D9FF37C91363C50800DEF2B3 /* PBXTextBookmark */;
+			D9FF37CA1363C50800DEF2B3 /* XCBuildMessageTextBookmark */ = D9FF37CA1363C50800DEF2B3 /* XCBuildMessageTextBookmark */;
+			D9FF37CC13643CF100DEF2B3 /* PBXTextBookmark */ = D9FF37CC13643CF100DEF2B3 /* PBXTextBookmark */;
+		};
+		sourceControlManager = D9EC70B7135F376D00EE1B3F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1265, 3146}}";
+			sepNavSelRange = "{5555, 0}";
+			sepNavVisRange = "{2024, 600}";
+			sepNavWindowFrame = "{{11, 0}, {1265, 772}}";
+		};
+	};
+	8DD76F620486A84900D96B5E /* AI Challenge */ = {
+		activeExec = 0;
+		executables = (
+			D9EC70AE135F376800EE1B3F /* AI Challenge */,
+		);
+	};
+	D90C017A13600EF1003C5F5C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D9EC70DB13600E1B00EE1B3F /* stdlib.h */;
+		name = "stdlib.h: 169";
+		rLen = 0;
+		rLoc = 5522;
+		rType = 0;
+		vrLen = 1673;
+		vrLoc = 0;
+	};
+	D90C018E13601077003C5F5C /* sampleplayer.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1601, 3614}}";
+			sepNavSelRange = "{6644, 0}";
+			sepNavVisRange = "{0, 797}";
+			sepNavWindowFrame = "{{11, 1}, {1265, 772}}";
+		};
+	};
+	D90C01901360108D003C5F5C /* player59.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1272, 8489}}";
+			sepNavSelRange = "{6796, 0}";
+			sepNavVisRange = "{6637, 496}";
+			sepNavWindowFrame = "{{11, 0}, {1265, 778}}";
+		};
+	};
+	D9B86EB81361C3A900102E04 /* parameter.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1007, 387}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 252}";
+		};
+	};
+	D9B86EC31361C52D00102E04 /* player59(1).cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = "player59(1).cpp";
+		path = "/Users/rishab/Downloads/player59(1).cpp";
+		sourceTree = "<absolute>";
+	};
+	D9B86F001361C63D00102E04 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D9B86EC31361C52D00102E04 /* player59(1).cpp */;
+		name = "player59(1).cpp: 1";
+		rLen = 9704;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 968;
+		vrLoc = 0;
+	};
+	D9B86F451361C99B00102E04 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D9B86F461361C99B00102E04 /* player59-1.cpp */;
+		name = "player59-1.cpp: 1";
+		rLen = 9704;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1666;
+		vrLoc = 8038;
+	};
+	D9B86F461361C99B00102E04 /* player59-1.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = "player59-1.cpp";
+		path = "/Users/rishab/Downloads/player59-1.cpp";
+		sourceTree = "<absolute>";
+	};
+	D9EC70AE135F376800EE1B3F /* AI Challenge */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "AI Challenge";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	D9EC70B7135F376D00EE1B3F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	D9EC70B8135F376D00EE1B3F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	D9EC70C8135F61B200EE1B3F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D9EC70C9135F61B200EE1B3F /* simulator.cpp */;
+		name = "simulator.cpp: 1";
+		rLen = 9884;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 341;
+		vrLoc = 0;
+	};
+	D9EC70C9135F61B200EE1B3F /* simulator.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = simulator.cpp;
+		path = "/Users/rishab/Development/AI Challenge/simulator.cpp";
+		sourceTree = "<absolute>";
+	};
+	D9EC70DB13600E1B00EE1B3F /* stdlib.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = stdlib.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h;
+		sourceTree = "<absolute>";
+	};
+	D9FF34F4136221DE00DEF2B3 /* player59.cpp:1 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = D90C01901360108D003C5F5C /* player59.cpp */;
+		functionName = "getnewmove(char board[BOARD_LENGHT][BOARD_BREADTH],int head_positiony,int head_positionx ,int acc_direction,int life_left)";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1;
+		location = "AI Challenge";
+		modificationTime = 325198392.661137;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	D9FF350A13622B2C00DEF2B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D9FF350B13622B2C00DEF2B3 /* player59(2).cpp */;
+		name = "player59(2).cpp: 1";
+		rLen = 10717;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 962;
+		vrLoc = 0;
+	};
+	D9FF350B13622B2C00DEF2B3 /* player59(2).cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = "player59(2).cpp";
+		path = "/Users/rishab/Downloads/player59(2).cpp";
+		sourceTree = "<absolute>";
+	};
+	D9FF36BF13624DB900DEF2B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D9B86EB81361C3A900102E04 /* parameter.h */;
+		name = "parameter.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 252;
+		vrLoc = 0;
+	};
+	D9FF36FA1362A95A00DEF2B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D9FF36FB1362A95A00DEF2B3 /* player_XX.cpp */;
+		name = "player_XX.cpp: 1";
+		rLen = 1204;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1181;
+		vrLoc = 0;
+	};
+	D9FF36FB1362A95A00DEF2B3 /* player_XX.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = player_XX.cpp;
+		path = "/Users/rishab/Development/AI Challenge/player_XX.cpp";
+		sourceTree = "<absolute>";
+	};
+	D9FF37131362B0A600DEF2B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D9FF37141362B0A600DEF2B3 /* madan.cpp */;
+		name = "madan.cpp: 1";
+		rLen = 7555;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 779;
+		vrLoc = 0;
+	};
+	D9FF37141362B0A600DEF2B3 /* madan.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = madan.cpp;
+		path = "/Users/rishab/Development/AI Challenge/madan.cpp";
+		sourceTree = "<absolute>";
+	};
+	D9FF373F1362C83D00DEF2B3 /* player59 cWORKING.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = "player59 cWORKING.cpp";
+		path = "/Users/rishab/Development/AI Challenge/player59 cWORKING.cpp";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1007, 5512}}";
+			sepNavSelRange = "{83, 0}";
+			sepNavVisRange = "{0, 509}";
+		};
+	};
+	D9FF37591363BAA500DEF2B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D9FF373F1362C83D00DEF2B3 /* player59 cWORKING.cpp */;
+		name = "player59 cWORKING.cpp: 5";
+		rLen = 0;
+		rLoc = 83;
+		rType = 0;
+		vrLen = 509;
+		vrLoc = 0;
+	};
+	D9FF375A1363BAA500DEF2B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D9FF375B1363BAA500DEF2B3 /* sampleplayer WRK.cpp */;
+		name = "sampleplayer WRK.cpp: 1";
+		rLen = 17336;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 489;
+		vrLoc = 2254;
+	};
+	D9FF375B1363BAA500DEF2B3 /* sampleplayer WRK.cpp */ = {
+		isa = PBXFileReference;
+		name = "sampleplayer WRK.cpp";
+		path = "/Users/rishab/Development/AI Challenge/sampleplayer WRK.cpp";
+		sourceTree = "<absolute>";
+	};
+	D9FF376F1363BBDB00DEF2B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D9FF37701363BBDB00DEF2B3 /* sampleplayer.cpp */;
+		name = "sampleplayer.cpp: 1";
+		rLen = 817;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 817;
+		vrLoc = 0;
+	};
+	D9FF37701363BBDB00DEF2B3 /* sampleplayer.cpp */ = {
+		isa = PBXFileReference;
+		name = sampleplayer.cpp;
+		path = /Users/rishab/Development/AI_2011/sampleplayer.cpp;
+		sourceTree = "<absolute>";
+	};
+	D9FF37791363BC4900DEF2B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 202";
+		rLen = 0;
+		rLoc = 5555;
+		rType = 0;
+		vrLen = 600;
+		vrLoc = 2024;
+	};
+	D9FF378D1363C3A900DEF2B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D9FF378E1363C3A900DEF2B3 /* player59_aman(1).cpp */;
+		name = "player59_aman(1).cpp: 1";
+		rLen = 10717;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 918;
+		vrLoc = 0;
+	};
+	D9FF378E1363C3A900DEF2B3 /* player59_aman(1).cpp */ = {
+		isa = PBXFileReference;
+		name = "player59_aman(1).cpp";
+		path = "/Users/rishab/Downloads/player59_aman(1).cpp";
+		sourceTree = "<absolute>";
+	};
+	D9FF37C91363C50800DEF2B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D90C018E13601077003C5F5C /* sampleplayer.cpp */;
+		name = "sampleplayer.cpp: 244";
+		rLen = 0;
+		rLoc = 6644;
+		rType = 0;
+		vrLen = 797;
+		vrLoc = 0;
+	};
+	D9FF37CA1363C50800DEF2B3 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Redefinition of 'class player59'";
+		fRef = D90C01901360108D003C5F5C /* player59.cpp */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 257;
+		rType = 1;
+	};
+	D9FF37CC13643CF100DEF2B3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D90C01901360108D003C5F5C /* player59.cpp */;
+		name = "player59.cpp: 7";
+		rLen = 3;
+		rLoc = 97;
+		rType = 0;
+		vrLen = 544;
+		vrLoc = 7387;
+	};
+}
